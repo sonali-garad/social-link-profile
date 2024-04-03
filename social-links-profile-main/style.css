@@ -84,3 +84,12 @@ button:hover
     background-color:hsl(75, 94%, 57%); 
     color:black;
 }
+
+@media  screen and (min-width: 375px) {
+    .main-container
+    {
+        width: 100%;
+        height: 100%;
+    }
+    
+}
