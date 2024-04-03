@@ -35,7 +35,7 @@ p{
 
 .main-container
 {
-    height: 100vh;
+    height: auto;
     width:40vw;
    
     margin:10%;
