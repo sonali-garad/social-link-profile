@@ -85,7 +85,7 @@ button:hover
     color:black;
 }
 
-@media  screen and (max-width: 375px) {
+@media  screen and (max-width: 600px) {
     .main-container
     {
         width: 100vw;
